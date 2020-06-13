@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        自动构建
+        自动构建   再试试
         </p>
         <a
           className="App-link"
