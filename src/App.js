@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        管道流部署shishi
+        管道流部署shishi 看看自动构建不
         </p>
         <a
           className="App-link"
