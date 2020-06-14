@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        自动构建   再试试 看看有没有记录
+        管道流部署
         </p>
         <a
           className="App-link"
