@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        自动构建开发环境都看得到控件分开的开发
+        自动构建开发环境 轮训
         </p>
         <a
           className="App-link"
