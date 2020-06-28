@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        自动构建开发环境 欧
+        自动构建开发环境 欧瞬间构建
         </p>
         <a
           className="App-link"
